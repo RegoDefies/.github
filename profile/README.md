@@ -22,12 +22,9 @@ At **regodefies**, we aim to:
 ---
 ## 🚀 Featured Projects  
 
-<a href="https://github.com/regodefies/Resus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=regodefies&repo=Resus&theme=radical" />
+<a href="https://github.com/regodefies/rag-cardio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=regodefies&repo=rag-cardio&theme=radical" />
 </a>
-<a href="https://github.com/regodefies/Kaeru-Hero">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=regodefies&repo=Kaeru-Hero&theme=radical" />
-</a>
-<a href="https://github.com/regodefies/FunMath">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=regodefies&repo=FunMath&theme=radical" />
+<a href="https://github.com/regodefies/bibtex-extraction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=regodefies&repo=bibtex-extraction&theme=radical" />
 </a>
