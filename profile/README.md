@@ -2,7 +2,7 @@ Welcome to **regodefies**, an organization dedicated to building innovative soft
 
 - 🛠️ **Engineering & AI utilities** — LaTeX classes, applied AI/ML (RAG, predictive models), and open-source frameworks.  
 - 🩺 **Healthcare simulation** — tools for medical training and patient monitoring (e.g., *Resus App*).  
-- 🎮 **Game development** — 2D/3D Android games with GDevelop and Godot (e.g., *Kaeru Hero*, *FunMath*).  
+- 🎮 **Game development** — 2D/3D Android games with GDevelop and Godot (e.g., *KHero*, *FunMath*).  
 
 ---
 ## 🌍 Vision  
