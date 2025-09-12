@@ -22,6 +22,10 @@ At **regodefies**, we aim to:
 ---
 ## 🚀 Featured Projects  
 
+
+<a href="https://github.com/RegoDefies/Rag-MusicPrompt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=regodefies&repo=Rag-MusicPrompt&theme=radical" />
+</a>
 <a href="https://github.com/RegoDefies/SmartContracts-Commons">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=regodefies&repo=SmartContracts-Commons&theme=radical" />
 </a>
