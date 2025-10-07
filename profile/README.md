@@ -35,3 +35,6 @@ At **regodefies**, we aim to:
 <a href="https://github.com/regodefies/bibtex-extraction">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=regodefies&repo=bibtex-extraction&theme=radical" />
 </a>
+<a href="https://github.com/RegoDefies/WaveformSeekBar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=regodefies&repo=WaveformSeekBar&theme=radical" />
+</a>
