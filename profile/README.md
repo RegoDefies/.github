@@ -38,3 +38,6 @@ At **regodefies**, we aim to:
 <a href="https://github.com/RegoDefies/WaveformSeekBar">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=regodefies&repo=WaveformSeekBar&theme=radical" />
 </a>
+<a href="https://github.com/RegoDefies/Coffee-Codex-Cortex-pub">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=regodefies&repo=Coffee-Codex-Cortex-pub&theme=radical" />
+</a>
